@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [Akashfw.github.io](Akashfw.github.io)
+- 👨‍💻 All of my projects are available at [Akashfw.github.io](akashfw.github.io)
 
 - 💬 Ask me about **HTML, CSS, JS, Node-js, Express, MongoDB**
 
