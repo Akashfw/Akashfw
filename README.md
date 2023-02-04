@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, Node-js, Express, MongoDB**
 
-- 📫 How to reach me **shuklaakash30278@gmail.com**
+- 📫 How to reach me **shuklaakash30278**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YFI1N75m-aNqTY6Fj4u1bE65iVTL7L2t/view?usp=sharing](https://drive.google.com/file/d/1YFI1N75m-aNqTY6Fj4u1bE65iVTL7L2t/view?usp=sharing)
 
